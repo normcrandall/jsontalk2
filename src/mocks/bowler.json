@@ -1,0 +1,158 @@
+[
+  {
+    "id": "dc4348d4-6770-4e9d-bcc5-0fc4775c2053",
+    "userName": "rdaventry0",
+    "firstName": "Ransell",
+    "lastName": "Daventry",
+    "gender": "Male",
+    "leagues": [
+      {
+        "id": "1e7c8141-791c-40dd-8ddb-4d7789669ff1"
+      },
+      {
+        "id": "3eeb2420-eb48-4837-87aa-bbe477588e89"
+      },
+      {
+        "id": "d2be1290-872e-4b6d-9784-5d38f1d7d2e0"
+      }
+    ]
+  },
+  {
+    "id": "cdae7f91-6770-4292-9752-0712fcb362c7",
+    "userName": "aapfler1",
+    "firstName": "Araldo",
+    "lastName": "Apfler",
+    "gender": "Male",
+    "leagues": [
+      {
+        "id": "1ea7971c-dcf4-4c0b-8e25-ae19ba4d7583"
+      },
+      {
+        "id": "b9d24c23-0c98-4dd1-b9f3-e217d8ddd769"
+      },
+      {
+        "id": "d2be1290-872e-4b6d-9784-5d38f1d7d2e0"
+      }
+    ]
+  },
+  {
+    "id": "c9d00f7a-c095-4aa1-8044-dbe2839d495f",
+    "userName": "fmouse2",
+    "firstName": "Forrester",
+    "lastName": "Mouse",
+    "gender": "Male",
+    "leagues": [
+      {
+        "id": "1e7c8141-791c-40dd-8ddb-4d7789669ff1"
+      },
+      {
+        "id": "c54b399e-2593-435c-8ee8-07ceef22404e"
+      }
+    ]
+  },
+  {
+    "id": "7e7881c6-4ba8-4e82-b603-0ac358adea66",
+    "userName": "mbolletti3",
+    "firstName": "Marten",
+    "lastName": "Bolletti",
+    "gender": "Male",
+    "leagues": [
+      {
+        "id": "1e7c8141-791c-40dd-8ddb-4d7789669ff1"
+      },
+      {
+        "id": "f6825167-89d0-406c-af24-1d50d1008cf7"
+      },
+      {
+        "id": "b9d24c23-0c98-4dd1-b9f3-e217d8ddd769"
+      }
+    ]
+  },
+  {
+    "id": "4e247e38-15d3-4001-829d-d733aa0ef188",
+    "userName": "togilby4",
+    "firstName": "Tiena",
+    "lastName": "Ogilby",
+    "gender": "Female",
+    "leagues": [
+      {
+        "id": "7764673f-006c-4f02-8d37-123398c7bbd1"
+      }
+    ]
+  },
+  {
+    "id": "3a2c4b88-2e2c-4670-b650-cec9e7e58d27",
+    "userName": "gcopeland5",
+    "firstName": "Gretel",
+    "lastName": "Copeland",
+    "gender": "Female",
+    "leagues": [
+      {
+        "id": "3eeb2420-eb48-4837-87aa-bbe477588e89"
+      },
+      {
+        "id": "7f39e750-131e-4025-8414-7ff387cf8f43"
+      },
+      {
+        "id": "1e7c8141-791c-40dd-8ddb-4d7789669ff1"
+      }
+    ]
+  },
+  {
+    "id": "d772dbba-d411-4938-9a0a-9d5f5f3760cf",
+    "userName": "bhebbs6",
+    "firstName": "Bordy",
+    "lastName": "Hebbs",
+    "gender": "Male",
+    "leagues": [
+      {
+        "id": "3eeb2420-eb48-4837-87aa-bbe477588e89"
+      },
+      {
+        "id": "d2be1290-872e-4b6d-9784-5d38f1d7d2e0"
+      }
+    ]
+  },
+  {
+    "id": "cbc5e5c4-5076-458a-afc9-b086341ad8f6",
+    "userName": "vjzhakov7",
+    "firstName": "Victoir",
+    "lastName": "Jzhakov",
+    "gender": "Male",
+    "leagues": [
+      {
+        "id": "3eeb2420-eb48-4837-87aa-bbe477588e89"
+      }
+    ]
+  },
+  {
+    "id": "b20ec4eb-02fb-4f46-87b7-3e2a584f206b",
+    "userName": "ccroad8",
+    "firstName": "Charlene",
+    "lastName": "Croad",
+    "gender": "Female",
+    "leagues": [
+      {
+        "id": "1e7c8141-791c-40dd-8ddb-4d7789669ff1"
+      }
+    ]
+  },
+  {
+    "id": "ff50ba37-bfec-4cdd-aa8d-d953d4afaf16",
+    "userName": "cfairfull9",
+    "firstName": "Corene",
+    "lastName": "Fairfull",
+    "gender": "Female",
+    "leagues": [
+      {
+        "id": "9f350c94-e671-4f89-8434-0fe237a7c5ad"
+      },
+      {
+        "id": "b9d24c23-0c98-4dd1-b9f3-e217d8ddd769"
+      },
+      {
+        "id": "c54b399e-2593-435c-8ee8-07ceef22404e"
+      }
+    ]
+  }
+]
